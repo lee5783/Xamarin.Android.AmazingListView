@@ -15,13 +15,13 @@ namespace Xamarin.AmazingListView.Demo
 	[Activity (Label = "SectionActivity")]			
 	public class SectionActivity : Activity
 	{
-		AmazingListview _lv;
+		AmazingListView _lv;
 		AmazingAdapter _adapter;
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
 			SetContentView (Resource.Layout.activity_section_demo);
-			_lv = FindViewById<AmazingListview> (Resource.Id.lsComposer);
+			_lv = FindViewById<AmazingListView> (Resource.Id.lsComposer);
 			_lv.SetPinnedHeaderView (LayoutInflater.Inflate (Resource.Layout.item_composer_header, _lv, false));
 			_lv.FastScrollEnabled = true;
 			_lv.Adapter = _adapter = new SectionComposerAdapter (this);

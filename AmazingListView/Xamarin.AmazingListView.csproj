@@ -44,9 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Resources\Resource.designer.cs" />
-    <Compile Include="AmazingListview.cs" />
     <Compile Include="AmazingAdapter.cs" />
     <Compile Include="IHasMorePagesListener.cs" />
+    <Compile Include="AmazingListView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />

@@ -109,8 +109,8 @@ namespace Xamarin.AmazingListView
 		#region HandleScroll
 		public void OnScroll (AbsListView view, int firstVisibleItem, int visibleItemCount, int totalItemCount)
 		{
-			if (view.GetType().Equals(typeof(AmazingListview))) {
-				((AmazingListview) view).ConfigureHeaderView(firstVisibleItem);
+			if (view.GetType().Equals(typeof(AmazingListView))) {
+				((AmazingListView) view).ConfigureHeaderView(firstVisibleItem);
 			}
 		}
 

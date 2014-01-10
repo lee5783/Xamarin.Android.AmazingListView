@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidAmazingListviewDemo/SectionActivity.cs">
+    <Files>
+      <File FileName="AndroidAmazingListviewDemo/MainActivity.cs" Line="9" Column="1" />
+      <File FileName="AndroidAmazingListviewDemo/SectionActivity.cs" Line="23" Column="1" />
+      <File FileName="AndroidAmazingListviewDemo/PaginationActivity.cs" Line="12" Column="39" />
+      <File FileName="AndroidAmazingListviewDemo/Data.cs" Line="12" Column="39" />
+      <File FileName="AndroidAmazingListviewDemo/Composer.cs" Line="12" Column="39" />
+      <File FileName="AndroidAmazingListView/AmazingAdapter.cs" Line="12" Column="34" />
+      <File FileName="AndroidAmazingListView/AmazingListview.cs" Line="15" Column="43" />
+      <File FileName="AndroidAmazingListView/IHasMorePagesListener.cs" Line="12" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

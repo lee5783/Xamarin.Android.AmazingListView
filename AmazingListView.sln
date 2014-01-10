@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.AmazingListView", "AmazingListView\Xamarin.AmazingListView.csproj", "{886F2A1B-4509-4A2D-A12D-A11FB6F4192A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.AmazingListViewDemo", "AmazingListViewDemo\Xamarin.AmazingListViewDemo.csproj", "{45FD3E6F-B70C-4F8C-A656-37B2A9A695DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FD3E6F-B70C-4F8C-A656-37B2A9A695DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FD3E6F-B70C-4F8C-A656-37B2A9A695DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FD3E6F-B70C-4F8C-A656-37B2A9A695DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FD3E6F-B70C-4F8C-A656-37B2A9A695DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886F2A1B-4509-4A2D-A12D-A11FB6F4192A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886F2A1B-4509-4A2D-A12D-A11FB6F4192A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886F2A1B-4509-4A2D-A12D-A11FB6F4192A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886F2A1B-4509-4A2D-A12D-A11FB6F4192A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AmazingListViewDemo\Xamarin.AmazingListViewDemo.csproj
+	EndGlobalSection
+EndGlobal

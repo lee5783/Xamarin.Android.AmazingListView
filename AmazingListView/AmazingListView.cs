@@ -12,7 +12,7 @@ using Android.Util;
 
 namespace Xamarin.AmazingListView
 {
-	public class AmazingListview : ListView, IHasMorePagesListener
+	public class AmazingListView : ListView, IHasMorePagesListener
 	{
 		//public const string Tag = "AmazingListview";
 
@@ -27,19 +27,19 @@ namespace Xamarin.AmazingListView
 
 		protected AmazingAdapter _adapter;
 
-		public AmazingListview(Context context) : base(context)
+		public AmazingListView(Context context) : base(context)
 		{
 		}
 
-		public AmazingListview(Context context, IAttributeSet attrs) : base(context, attrs)
+		public AmazingListView(Context context, IAttributeSet attrs) : base(context, attrs)
 		{
 		}
 
-		public AmazingListview(Context context, IAttributeSet attrs, int defStyle) : base(context, attrs, defStyle)
+		public AmazingListView(Context context, IAttributeSet attrs, int defStyle) : base(context, attrs, defStyle)
 		{
 		}
 
-		public AmazingListview(IntPtr javaReference, JniHandleOwnership transfer) : base(javaReference, transfer)
+		public AmazingListView(IntPtr javaReference, JniHandleOwnership transfer) : base(javaReference, transfer)
 		{
 		}
 
