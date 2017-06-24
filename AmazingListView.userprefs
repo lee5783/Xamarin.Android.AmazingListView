@@ -1,19 +1,16 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidAmazingListviewDemo/SectionActivity.cs">
+﻿<Properties StartupConfiguration="{45FD3E6F-B70C-4F8C-A656-37B2A9A695DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AmazingListViewDemo/SectionActivity.cs">
     <Files>
-      <File FileName="AndroidAmazingListviewDemo/MainActivity.cs" Line="9" Column="1" />
-      <File FileName="AndroidAmazingListviewDemo/SectionActivity.cs" Line="23" Column="1" />
-      <File FileName="AndroidAmazingListviewDemo/PaginationActivity.cs" Line="12" Column="39" />
-      <File FileName="AndroidAmazingListviewDemo/Data.cs" Line="12" Column="39" />
-      <File FileName="AndroidAmazingListviewDemo/Composer.cs" Line="12" Column="39" />
-      <File FileName="AndroidAmazingListView/AmazingAdapter.cs" Line="12" Column="34" />
-      <File FileName="AndroidAmazingListView/AmazingListview.cs" Line="15" Column="43" />
-      <File FileName="AndroidAmazingListView/IHasMorePagesListener.cs" Line="12" Column="34" />
+      <File FileName="AmazingListView/AmazingListView.cs" Line="135" Column="29" />
+      <File FileName="AmazingListViewDemo/SectionActivity.cs" Line="20" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Xamarin.AmazingListView PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Xamarin.AmazingListViewDemo PreferredExecutionTarget="Android.192.168.57.101:5555" />
 </Properties>

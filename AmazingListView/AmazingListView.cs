@@ -9,6 +9,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.Util;
+using Android.Graphics;
 
 namespace Xamarin.AmazingListView
 {
@@ -128,7 +129,7 @@ namespace Xamarin.AmazingListView
 			}
 		}
 
-		protected override void DispatchDraw (Android.Graphics.Canvas canvas)
+		protected override void DispatchDraw(Canvas canvas)
 		{
 			base.DispatchDraw (canvas);
 			if (_headerViewVisible) {

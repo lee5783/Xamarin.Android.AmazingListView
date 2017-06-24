@@ -135,7 +135,8 @@ namespace Xamarin.AmazingListView.Demo
 			try {
 				position = _sectionDict[key];
 			} catch (Exception ex) {
-				Android.Util.Log.Error ("GetPositionForSection", "Fail to get value for key " + key); 
+				Console.WriteLine("Fail to get value for key " + key);
+				Console.WriteLine("Error" + ex.StackTrace);
 				return -1;
 			}
 
